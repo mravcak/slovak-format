@@ -1,0 +1,10 @@
+{
+  "name": "slovak-format",
+  "version": "0.1.0",
+  "description": "Library for formatting values and text in Slovak language.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "author": "Alexander Mravcak <alex.mravcak@gmail.com>",
+  "license": "MIT"
+}
